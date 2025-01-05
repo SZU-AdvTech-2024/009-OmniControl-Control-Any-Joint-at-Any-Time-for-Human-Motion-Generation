@@ -1,0 +1,7 @@
+@inproceedings{REPO009,
+    author = "Xie, Yiming and Jampani, Varun and Zhong, Lei and Sun, Deqing and Jiang, Huaizu",
+    booktitle = "The Twelfth International Conference on Learning Representations",
+    title = "{OmniControl: Control Any Joint at Any Time for Human Motion Generation}",
+    url = "https://openreview.net/forum?id=gd0lAEtWso",
+    year = "2024"
+}
